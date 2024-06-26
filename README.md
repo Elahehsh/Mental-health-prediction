@@ -3,8 +3,8 @@ This project aims to predict mental health disorders by analyzing data collected
 
 ## Data
 We use two primary datasets for this project:
-- Smartwatch Data: Contains data on heart rate, activity levels, and sleep patterns. [Kaggle](https://www.kaggle.com/shubhendra19/smartwatch-data)
-- Mental Health and Smart Watch Data: Combines mental health survey data with smart watch data. [Kaggle](https://www.kaggle.com/surajjha101/mental-health-and-smart-watch-data)
+- Smartwatch Data: Contains data on heart rate, activity levels, and sleep patterns. [Kaggle]([https://www.kaggle.com/shubhendra19/smartwatch-data](https://www.kaggle.com/code/amirmotefaker/smartwatch-data-analysis/output))
+- Mental Health and Smart Watch Data: Combines mental health survey data with smart watch data. [Kaggle](https://www.kaggle.com/datasets/thedevastator/smartphone-sensor-data-for-mental-health-researc)
 
 ## Project Structure
 The project is organized as follows:
